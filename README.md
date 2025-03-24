@@ -17,7 +17,7 @@ It's a creative approach to enhancing user experience and showcasing design elem
 
 ## Hosted Link
 
-The project is hosted on [GitHub Pages](). You can access it [here]().
+The project is hosted on [GitHub Pages](https://github.com/PremGChavan/Dark-Mode). You can access it [here](https://premgchavan.github.io/Dark-Mode/).
 
 ## Project Structure
 
